@@ -17,3 +17,5 @@
 	c) git diff commit1 commit2 sýnir þann mun sem er á tveim völdum möppum
 4. 	Hvað er útgáfustýring (e.version control)? 
 		Sýnir hvernig forritið hefur breyst milli útgáfanna
+5.	Hverjir eru helstu kostir við að nota GIT?
+		Það er hægt að vinna saman og búa til verkefni sem að git sameinar síðan
