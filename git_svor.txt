@@ -23,3 +23,5 @@
 		Eftir að notandi er búinn að kóða skal skoða hvort hann virki með því að nota eins oft og þarf
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 		Það er commit sem þú ert að vinna í
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+		Þær eru nytsamar þegar of margar möppur hafa verið gerðar í einni möppu	
