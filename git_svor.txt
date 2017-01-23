@@ -5,3 +5,9 @@
 	ls sýnir allar directory's
 	pwd 
 	mkdir býr til nýja möppu
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone afritar innihaldið af möppunni og setur þau í aðra möppu
+	git log *Segir hvað hver notandi hefur gert við kóða
+	git status *sýnir allar þær gerðir af kóða sem hefur verið gert
+	git diff *Sýnir þann mun sem hefur breyst 
+	git checkout *Gefur því sem er nýtt branch
