@@ -27,3 +27,5 @@
 		Þær eru nytsamar þegar of margar möppur hafa verið gerðar í einni möppu	
 9.	Hver fann upp GIT?
 		Það var hann linus torvalds
+10.	Hvar er GIT helst notað?
+		í tölvum
